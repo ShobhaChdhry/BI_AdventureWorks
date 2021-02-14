@@ -5,8 +5,8 @@ This repository is created to store and share the visualisation work. Power BI i
 
 # Brief details of the report:
 
-Various visuals have been used which are mentioned below:
-Donut chart,KPI,Guage,Slicer, Metrics, Card, Line and clustered column chart, Treemap, Map, Line chart and Stacked area chart.
+Various visuals have been used which are:
+Donut chart, KPI, Guage, Slicer, Metrics, Card, Line and clustered column chart, Treemap, Map, Line chart and Stacked area chart.
 
 To navigate through the report I have used bookmarks, drill through filter and buttons.  
 
